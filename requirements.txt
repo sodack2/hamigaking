@@ -109,7 +109,6 @@ msgpack
 multidict
 multipledispatch
 mypy
-navigator-updater
 nbclient
 nbconvert
 nbformat
